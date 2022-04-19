@@ -1,2 +1,2 @@
 # text2speech
-converting text to speech
+Basic program on converting text to speech
